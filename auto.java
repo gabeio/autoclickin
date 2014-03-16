@@ -14,7 +14,7 @@ class Auto
 {
 	public static void main(String[] args)
 	{
-		/*
+		
 		double oldx = 0; // old cursor x value
 		double oldy = 0; // old cursor y value
 		while(true) // do while
@@ -31,9 +31,9 @@ class Auto
 				oldy = y;
 			}
 		}
-		*/
+		/**/
 		
-		int i = 0; // counter
+		/*int i = 0; // counter
 		
 		Scanner sc = new Scanner(System.in); // user input.
 		System.out.println("How many times:");
